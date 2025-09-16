@@ -1,3 +1,7 @@
+This is the original code used to beat the HuggingFace Agents Course challenge.
+
+The final run was conducted with the "sonar" model from Perplexity.
+
 ---
 title: Template Final Assignment
 emoji: 🕵🏻‍♂️
